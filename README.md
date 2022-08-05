@@ -49,4 +49,4 @@ Implemented flags and options:
 ## Credits
 
 **Collaborators**
-- GeamXD
+- GeamXD (Musa Godwin)
